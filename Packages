@@ -3,7 +3,7 @@ Version: 1.0.4-1
 Architecture: iphoneos-arm
 Maintainer: BAIIIz <bathe3rd@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs//com.baiiiz.bo3_1.0.4-1_iphoneos-arm.deb
+Filename: ./debs/com.baiiiz.bo3_1.0.4-1_iphoneos-arm.deb
 Size: 4120
 MD5sum: 95566c40da5f59f9414770595af4d489
 SHA1: e4db81c8907de243d48eadba4d1e1f464f303859
@@ -12,4 +12,3 @@ Section: Themes (Zeppelin)
 Description: Black Ops 3 Zeppelin Logo
 Author: BAIIIz <bathe3rd@gmail.com>
 Name: Black Ops 3 Zeppelin Logo
-
