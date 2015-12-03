@@ -1,0 +1,9 @@
+Package: com.BAIIIz.BO3
+Name: Black Ops 3 Zeppelin Logo
+Depends: com.alexzielenski.zeppelin
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Description: Black Ops 3 Zeppelin Logo
+Maintainer: BAIIIz <bathe3rd@gmail.com>
+Author: BAIIIz <bathe3rd@gmail.com>
+Section: Themes (Zeppelin)
